@@ -3,6 +3,11 @@ Adam Black
 Bob Green
 Carole Brown
 Dave White
-Eddie Puuurple
+Eddie Purple
+George Black
+Henry Green
+Ian White
+Joan Yellow
+Kenny Brown
 
 
